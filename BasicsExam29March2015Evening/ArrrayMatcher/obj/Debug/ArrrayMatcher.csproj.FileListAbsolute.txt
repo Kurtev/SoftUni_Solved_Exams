@@ -1,0 +1,6 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam29March2015Evening\ArrrayMatcher\bin\Debug\ArrrayMatcher.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam29March2015Evening\ArrrayMatcher\bin\Debug\ArrrayMatcher.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam29March2015Evening\ArrrayMatcher\bin\Debug\ArrrayMatcher.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam29March2015Evening\ArrrayMatcher\obj\Debug\ArrrayMatcher.csprojResolveAssemblyReference.cache
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam29March2015Evening\ArrrayMatcher\obj\Debug\ArrrayMatcher.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam29March2015Evening\ArrrayMatcher\obj\Debug\ArrrayMatcher.pdb

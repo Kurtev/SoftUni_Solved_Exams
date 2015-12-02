@@ -1,0 +1,6 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\WiggleWiggle\bin\Debug\WiggleWiggle.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\WiggleWiggle\bin\Debug\WiggleWiggle.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\WiggleWiggle\bin\Debug\WiggleWiggle.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\WiggleWiggle\obj\Debug\WiggleWiggle.csprojResolveAssemblyReference.cache
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\WiggleWiggle\obj\Debug\WiggleWiggle.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\WiggleWiggle\obj\Debug\WiggleWiggle.pdb

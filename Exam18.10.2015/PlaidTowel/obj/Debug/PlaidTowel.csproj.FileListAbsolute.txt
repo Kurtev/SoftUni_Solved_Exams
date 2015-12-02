@@ -1,0 +1,5 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam18.10.2015\PlaidTowel\bin\Debug\PlaidTowel.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam18.10.2015\PlaidTowel\bin\Debug\PlaidTowel.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam18.10.2015\PlaidTowel\bin\Debug\PlaidTowel.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam18.10.2015\PlaidTowel\obj\Debug\PlaidTowel.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam18.10.2015\PlaidTowel\obj\Debug\PlaidTowel.pdb

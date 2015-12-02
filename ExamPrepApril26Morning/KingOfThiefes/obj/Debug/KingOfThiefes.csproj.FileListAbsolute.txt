@@ -1,0 +1,6 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\ExamPrepApril26Morning\KingOfThiefes\bin\Debug\KingOfThiefes.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\ExamPrepApril26Morning\KingOfThiefes\obj\Debug\KingOfThiefes.csprojResolveAssemblyReference.cache
+c:\users\k.kurtev\documents\visual studio 2013\Projects\ExamPrepApril26Morning\KingOfThiefes\bin\Debug\KingOfThiefes.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\ExamPrepApril26Morning\KingOfThiefes\bin\Debug\KingOfThiefes.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\ExamPrepApril26Morning\KingOfThiefes\obj\Debug\KingOfThiefes.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\ExamPrepApril26Morning\KingOfThiefes\obj\Debug\KingOfThiefes.pdb

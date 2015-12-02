@@ -1,0 +1,6 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\ExamPrepApril26Morning\BitsAtCrossRoads\bin\Debug\BitsAtCrossRoads.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\ExamPrepApril26Morning\BitsAtCrossRoads\bin\Debug\BitsAtCrossRoads.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\ExamPrepApril26Morning\BitsAtCrossRoads\bin\Debug\BitsAtCrossRoads.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\ExamPrepApril26Morning\BitsAtCrossRoads\obj\Debug\BitsAtCrossRoads.csprojResolveAssemblyReference.cache
+c:\users\k.kurtev\documents\visual studio 2013\Projects\ExamPrepApril26Morning\BitsAtCrossRoads\obj\Debug\BitsAtCrossRoads.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\ExamPrepApril26Morning\BitsAtCrossRoads\obj\Debug\BitsAtCrossRoads.pdb

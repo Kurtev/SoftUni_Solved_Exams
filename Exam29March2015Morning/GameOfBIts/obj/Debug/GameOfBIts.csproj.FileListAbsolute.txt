@@ -1,0 +1,6 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam29March2015Morning\GameOfBIts\bin\Debug\GameOfBIts.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam29March2015Morning\GameOfBIts\bin\Debug\GameOfBIts.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam29March2015Morning\GameOfBIts\bin\Debug\GameOfBIts.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam29March2015Morning\GameOfBIts\obj\Debug\GameOfBIts.csprojResolveAssemblyReference.cache
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam29March2015Morning\GameOfBIts\obj\Debug\GameOfBIts.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam29March2015Morning\GameOfBIts\obj\Debug\GameOfBIts.pdb

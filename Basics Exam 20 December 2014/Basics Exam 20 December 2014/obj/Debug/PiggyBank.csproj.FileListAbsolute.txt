@@ -1,0 +1,6 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\Basics Exam 20 December 2014\bin\Debug\Basics Exam 20 December 2014.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\Basics Exam 20 December 2014\bin\Debug\Basics Exam 20 December 2014.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\Basics Exam 20 December 2014\bin\Debug\Basics Exam 20 December 2014.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\Basics Exam 20 December 2014\obj\Debug\PiggyBank.csprojResolveAssemblyReference.cache
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\Basics Exam 20 December 2014\obj\Debug\Basics Exam 20 December 2014.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\Basics Exam 20 December 2014\obj\Debug\Basics Exam 20 December 2014.pdb

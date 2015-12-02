@@ -1,0 +1,6 @@
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\BasicExam19December2014\HeadPhones\bin\Debug\HeadPhones.exe.config
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\BasicExam19December2014\HeadPhones\bin\Debug\HeadPhones.exe
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\BasicExam19December2014\HeadPhones\bin\Debug\HeadPhones.pdb
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\BasicExam19December2014\HeadPhones\obj\Debug\HeadPhones.csprojResolveAssemblyReference.cache
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\BasicExam19December2014\HeadPhones\obj\Debug\HeadPhones.exe
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\BasicExam19December2014\HeadPhones\obj\Debug\HeadPhones.pdb

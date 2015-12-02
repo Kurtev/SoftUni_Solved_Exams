@@ -1,0 +1,6 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam29March2015Morning\Dumbell\bin\Debug\Dumbell.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam29March2015Morning\Dumbell\bin\Debug\Dumbell.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam29March2015Morning\Dumbell\bin\Debug\Dumbell.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam29March2015Morning\Dumbell\obj\Debug\Dumbell.csprojResolveAssemblyReference.cache
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam29March2015Morning\Dumbell\obj\Debug\Dumbell.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam29March2015Morning\Dumbell\obj\Debug\Dumbell.pdb

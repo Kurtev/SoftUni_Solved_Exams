@@ -1,0 +1,6 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicExam19December2014\BasicExam19December2014\bin\Debug\BasicExam19December2014.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicExam19December2014\BasicExam19December2014\bin\Debug\BasicExam19December2014.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicExam19December2014\BasicExam19December2014\bin\Debug\BasicExam19December2014.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicExam19December2014\BasicExam19December2014\obj\Debug\TravellerBob.csprojResolveAssemblyReference.cache
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicExam19December2014\BasicExam19December2014\obj\Debug\BasicExam19December2014.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicExam19December2014\BasicExam19December2014\obj\Debug\BasicExam19December2014.pdb

@@ -1,0 +1,6 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam29March2015Evening\MagicWand\bin\Debug\MagicWand.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam29March2015Evening\MagicWand\bin\Debug\MagicWand.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam29March2015Evening\MagicWand\bin\Debug\MagicWand.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam29March2015Evening\MagicWand\obj\Debug\MagicWand.csprojResolveAssemblyReference.cache
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam29March2015Evening\MagicWand\obj\Debug\MagicWand.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam29March2015Evening\MagicWand\obj\Debug\MagicWand.pdb

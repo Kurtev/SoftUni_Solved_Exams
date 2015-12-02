@@ -1,0 +1,6 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\CheatSheat\bin\Debug\CheatSheat.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\CheatSheat\bin\Debug\CheatSheat.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\CheatSheat\bin\Debug\CheatSheat.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\CheatSheat\obj\Debug\CheatSheat.csprojResolveAssemblyReference.cache
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\CheatSheat\obj\Debug\CheatSheat.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\CheatSheat\obj\Debug\CheatSheat.pdb

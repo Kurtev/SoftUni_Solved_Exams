@@ -1,0 +1,6 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam29March2015Morning\EncryptedMatrix\bin\Debug\EncryptedMatrix.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam29March2015Morning\EncryptedMatrix\bin\Debug\EncryptedMatrix.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam29March2015Morning\EncryptedMatrix\bin\Debug\EncryptedMatrix.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam29March2015Morning\EncryptedMatrix\obj\Debug\EncryptedMatrix.csprojResolveAssemblyReference.cache
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam29March2015Morning\EncryptedMatrix\obj\Debug\EncryptedMatrix.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam29March2015Morning\EncryptedMatrix\obj\Debug\EncryptedMatrix.pdb

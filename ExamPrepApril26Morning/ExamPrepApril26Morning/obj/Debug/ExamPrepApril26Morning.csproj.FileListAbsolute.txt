@@ -1,0 +1,6 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\ExamPrepApril26Morning\ExamPrepApril26Morning\bin\Debug\ExamPrepApril26Morning.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\ExamPrepApril26Morning\ExamPrepApril26Morning\bin\Debug\ExamPrepApril26Morning.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\ExamPrepApril26Morning\ExamPrepApril26Morning\bin\Debug\ExamPrepApril26Morning.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\ExamPrepApril26Morning\ExamPrepApril26Morning\obj\Debug\ExamPrepApril26Morning.csprojResolveAssemblyReference.cache
+c:\users\k.kurtev\documents\visual studio 2013\Projects\ExamPrepApril26Morning\ExamPrepApril26Morning\obj\Debug\ExamPrepApril26Morning.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\ExamPrepApril26Morning\ExamPrepApril26Morning\obj\Debug\ExamPrepApril26Morning.pdb

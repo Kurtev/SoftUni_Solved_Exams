@@ -1,0 +1,6 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam8November2014\Numerology\bin\Debug\Numerology.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam8November2014\Numerology\bin\Debug\Numerology.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam8November2014\Numerology\bin\Debug\Numerology.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam8November2014\Numerology\obj\Debug\Numerology.csprojResolveAssemblyReference.cache
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam8November2014\Numerology\obj\Debug\Numerology.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam8November2014\Numerology\obj\Debug\Numerology.pdb

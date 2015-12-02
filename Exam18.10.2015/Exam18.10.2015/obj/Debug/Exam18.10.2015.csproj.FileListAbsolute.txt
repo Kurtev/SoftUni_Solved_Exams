@@ -1,0 +1,6 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam18.10.2015\Exam18.10.2015\bin\Debug\Exam18.10.2015.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam18.10.2015\Exam18.10.2015\bin\Debug\Exam18.10.2015.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam18.10.2015\Exam18.10.2015\bin\Debug\Exam18.10.2015.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam18.10.2015\Exam18.10.2015\obj\Debug\Exam18.10.2015.csprojResolveAssemblyReference.cache
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam18.10.2015\Exam18.10.2015\obj\Debug\Exam18.10.2015.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam18.10.2015\Exam18.10.2015\obj\Debug\Exam18.10.2015.pdb

@@ -1,0 +1,5 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam29March2015Morning\BasketBattle\bin\Debug\BasketBattle.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam29March2015Morning\BasketBattle\bin\Debug\BasketBattle.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam29March2015Morning\BasketBattle\bin\Debug\BasketBattle.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam29March2015Morning\BasketBattle\obj\Debug\BasketBattle.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam29March2015Morning\BasketBattle\obj\Debug\BasketBattle.pdb

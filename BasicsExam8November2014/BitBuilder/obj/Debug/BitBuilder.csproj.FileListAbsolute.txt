@@ -1,0 +1,6 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam8November2014\BitBuilder\bin\Debug\BitBuilder.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam8November2014\BitBuilder\bin\Debug\BitBuilder.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam8November2014\BitBuilder\bin\Debug\BitBuilder.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam8November2014\BitBuilder\obj\Debug\BitBuilder.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam8November2014\BitBuilder\obj\Debug\BitBuilder.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam8November2014\BitBuilder\obj\Debug\BitBuilder.csprojResolveAssemblyReference.cache

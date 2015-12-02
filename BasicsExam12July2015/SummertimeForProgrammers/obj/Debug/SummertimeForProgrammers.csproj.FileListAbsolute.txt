@@ -1,0 +1,6 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\SummertimeForProgrammers\bin\Debug\SummertimeForProgrammers.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\SummertimeForProgrammers\bin\Debug\SummertimeForProgrammers.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\SummertimeForProgrammers\bin\Debug\SummertimeForProgrammers.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\SummertimeForProgrammers\obj\Debug\SummertimeForProgrammers.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\SummertimeForProgrammers\obj\Debug\SummertimeForProgrammers.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\SummertimeForProgrammers\obj\Debug\SummertimeForProgrammers.csprojResolveAssemblyReference.cache

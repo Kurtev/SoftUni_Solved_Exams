@@ -1,0 +1,6 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\LightTheTorches\bin\Debug\LightTheTorches.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\LightTheTorches\bin\Debug\LightTheTorches.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\LightTheTorches\bin\Debug\LightTheTorches.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\LightTheTorches\obj\Debug\LightTheTorches.csprojResolveAssemblyReference.cache
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\LightTheTorches\obj\Debug\LightTheTorches.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\LightTheTorches\obj\Debug\LightTheTorches.pdb

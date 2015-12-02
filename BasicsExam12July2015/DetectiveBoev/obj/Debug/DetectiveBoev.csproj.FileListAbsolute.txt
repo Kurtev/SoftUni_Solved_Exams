@@ -1,0 +1,5 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\DetectiveBoev\bin\Debug\DetectiveBoev.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\DetectiveBoev\bin\Debug\DetectiveBoev.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\DetectiveBoev\bin\Debug\DetectiveBoev.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\DetectiveBoev\obj\Debug\DetectiveBoev.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\DetectiveBoev\obj\Debug\DetectiveBoev.pdb

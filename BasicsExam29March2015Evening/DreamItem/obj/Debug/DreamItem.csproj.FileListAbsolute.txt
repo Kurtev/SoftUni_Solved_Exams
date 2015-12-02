@@ -1,0 +1,6 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam29March2015Evening\DreamItem\bin\Debug\DreamItem.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam29March2015Evening\DreamItem\bin\Debug\DreamItem.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam29March2015Evening\DreamItem\bin\Debug\DreamItem.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam29March2015Evening\DreamItem\obj\Debug\DreamItem.csprojResolveAssemblyReference.cache
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam29March2015Evening\DreamItem\obj\Debug\DreamItem.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam29March2015Evening\DreamItem\obj\Debug\DreamItem.pdb

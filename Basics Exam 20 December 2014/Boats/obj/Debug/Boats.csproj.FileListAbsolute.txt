@@ -1,0 +1,6 @@
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\Boats\bin\Debug\Boats.exe.config
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\Boats\bin\Debug\Boats.exe
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\Boats\bin\Debug\Boats.pdb
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\Boats\obj\Debug\Boats.csprojResolveAssemblyReference.cache
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\Boats\obj\Debug\Boats.exe
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\Boats\obj\Debug\Boats.pdb

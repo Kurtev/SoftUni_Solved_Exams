@@ -1,0 +1,5 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam18.10.2015\Bohemcho\bin\Debug\Bohemcho.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam18.10.2015\Bohemcho\bin\Debug\Bohemcho.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam18.10.2015\Bohemcho\bin\Debug\Bohemcho.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam18.10.2015\Bohemcho\obj\Debug\Bohemcho.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam18.10.2015\Bohemcho\obj\Debug\Bohemcho.pdb

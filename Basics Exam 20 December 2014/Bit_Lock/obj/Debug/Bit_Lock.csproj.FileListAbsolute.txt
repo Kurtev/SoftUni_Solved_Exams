@@ -1,0 +1,6 @@
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\Bit_Lock\bin\Debug\Bit_Lock.exe.config
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\Bit_Lock\obj\Debug\Bit_Lock.csprojResolveAssemblyReference.cache
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\Bit_Lock\bin\Debug\Bit_Lock.exe
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\Bit_Lock\bin\Debug\Bit_Lock.pdb
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\Bit_Lock\obj\Debug\Bit_Lock.exe
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\Bit_Lock\obj\Debug\Bit_Lock.pdb

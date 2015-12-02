@@ -1,0 +1,6 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam8November2014\Gambling\bin\Debug\Gambling.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam8November2014\Gambling\bin\Debug\Gambling.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam8November2014\Gambling\bin\Debug\Gambling.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam8November2014\Gambling\obj\Debug\Gambling.csprojResolveAssemblyReference.cache
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam8November2014\Gambling\obj\Debug\Gambling.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam8November2014\Gambling\obj\Debug\Gambling.pdb

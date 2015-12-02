@@ -1,0 +1,6 @@
+C:\Users\k.kurtev\Documents\Visual Studio 2013\Projects\BasicExam30.08.15\WaveBits\bin\Debug\WaveBits.exe.config
+C:\Users\k.kurtev\Documents\Visual Studio 2013\Projects\BasicExam30.08.15\WaveBits\bin\Debug\WaveBits.exe
+C:\Users\k.kurtev\Documents\Visual Studio 2013\Projects\BasicExam30.08.15\WaveBits\bin\Debug\WaveBits.pdb
+C:\Users\k.kurtev\Documents\Visual Studio 2013\Projects\BasicExam30.08.15\WaveBits\obj\Debug\WaveBits.exe
+C:\Users\k.kurtev\Documents\Visual Studio 2013\Projects\BasicExam30.08.15\WaveBits\obj\Debug\WaveBits.pdb
+C:\Users\k.kurtev\Documents\Visual Studio 2013\Projects\BasicExam30.08.15\WaveBits\obj\Debug\WaveBits.csprojResolveAssemblyReference.cache

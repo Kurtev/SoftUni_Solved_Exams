@@ -1,0 +1,6 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\ExamPrepApril26Morning\ChessBoardGame\bin\Debug\ChessBoardGame.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\ExamPrepApril26Morning\ChessBoardGame\bin\Debug\ChessBoardGame.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\ExamPrepApril26Morning\ChessBoardGame\bin\Debug\ChessBoardGame.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\ExamPrepApril26Morning\ChessBoardGame\obj\Debug\ChessBoardGame.csprojResolveAssemblyReference.cache
+c:\users\k.kurtev\documents\visual studio 2013\Projects\ExamPrepApril26Morning\ChessBoardGame\obj\Debug\ChessBoardGame.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\ExamPrepApril26Morning\ChessBoardGame\obj\Debug\ChessBoardGame.pdb

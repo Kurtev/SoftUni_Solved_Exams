@@ -1,0 +1,6 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicExam30.08.15\TheFootballStatician\bin\Debug\TheFootballStatician.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicExam30.08.15\TheFootballStatician\bin\Debug\TheFootballStatician.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicExam30.08.15\TheFootballStatician\bin\Debug\TheFootballStatician.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicExam30.08.15\TheFootballStatician\obj\Debug\TheFootballStatician.csprojResolveAssemblyReference.cache
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicExam30.08.15\TheFootballStatician\obj\Debug\TheFootballStatician.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicExam30.08.15\TheFootballStatician\obj\Debug\TheFootballStatician.pdb

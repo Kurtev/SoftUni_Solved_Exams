@@ -1,0 +1,6 @@
+C:\Users\k.kurtev\Documents\Visual Studio 2013\Projects\BasicExam19December2014\PaintBall\bin\Debug\PaintBall.exe.config
+C:\Users\k.kurtev\Documents\Visual Studio 2013\Projects\BasicExam19December2014\PaintBall\bin\Debug\PaintBall.exe
+C:\Users\k.kurtev\Documents\Visual Studio 2013\Projects\BasicExam19December2014\PaintBall\bin\Debug\PaintBall.pdb
+C:\Users\k.kurtev\Documents\Visual Studio 2013\Projects\BasicExam19December2014\PaintBall\obj\Debug\PaintBall.csprojResolveAssemblyReference.cache
+C:\Users\k.kurtev\Documents\Visual Studio 2013\Projects\BasicExam19December2014\PaintBall\obj\Debug\PaintBall.exe
+C:\Users\k.kurtev\Documents\Visual Studio 2013\Projects\BasicExam19December2014\PaintBall\obj\Debug\PaintBall.pdb

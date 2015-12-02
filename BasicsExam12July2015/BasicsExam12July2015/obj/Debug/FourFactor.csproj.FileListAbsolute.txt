@@ -1,0 +1,6 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\BasicsExam12July2015\bin\Debug\BasicsExam12July2015.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\BasicsExam12July2015\bin\Debug\BasicsExam12July2015.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\BasicsExam12July2015\bin\Debug\BasicsExam12July2015.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\BasicsExam12July2015\obj\Debug\FourFactor.csprojResolveAssemblyReference.cache
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\BasicsExam12July2015\obj\Debug\BasicsExam12July2015.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam12July2015\BasicsExam12July2015\obj\Debug\BasicsExam12July2015.pdb

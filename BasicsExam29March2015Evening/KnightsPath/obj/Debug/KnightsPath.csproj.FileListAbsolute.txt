@@ -1,0 +1,6 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam29March2015Evening\KnightsPath\bin\Debug\KnightsPath.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam29March2015Evening\KnightsPath\bin\Debug\KnightsPath.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam29March2015Evening\KnightsPath\bin\Debug\KnightsPath.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam29March2015Evening\KnightsPath\obj\Debug\KnightsPath.csprojResolveAssemblyReference.cache
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam29March2015Evening\KnightsPath\obj\Debug\KnightsPath.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam29March2015Evening\KnightsPath\obj\Debug\KnightsPath.pdb

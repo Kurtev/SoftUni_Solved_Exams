@@ -1,0 +1,5 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam8November2014\RoklQ\bin\Debug\RoklQ.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam8November2014\RoklQ\bin\Debug\RoklQ.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam8November2014\RoklQ\bin\Debug\RoklQ.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam8November2014\RoklQ\obj\Debug\RoklQ.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\BasicsExam8November2014\RoklQ\obj\Debug\RoklQ.pdb

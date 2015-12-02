@@ -1,0 +1,6 @@
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\BombardingTextbox\bin\Debug\BombardingTextbox.exe.config
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\BombardingTextbox\bin\Debug\BombardingTextbox.exe
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\BombardingTextbox\bin\Debug\BombardingTextbox.pdb
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\BombardingTextbox\obj\Debug\BombardingTextbox.csprojResolveAssemblyReference.cache
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\BombardingTextbox\obj\Debug\BombardingTextbox.exe
+C:\Users\k.kurtev\documents\visual studio 2013\Projects\Basics Exam 20 December 2014\BombardingTextbox\obj\Debug\BombardingTextbox.pdb

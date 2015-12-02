@@ -1,0 +1,5 @@
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam18.10.2015\Firefighters\bin\Debug\Firefighters.exe.config
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam18.10.2015\Firefighters\bin\Debug\Firefighters.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam18.10.2015\Firefighters\bin\Debug\Firefighters.pdb
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam18.10.2015\Firefighters\obj\Debug\Firefighters.exe
+c:\users\k.kurtev\documents\visual studio 2013\Projects\Exam18.10.2015\Firefighters\obj\Debug\Firefighters.pdb
